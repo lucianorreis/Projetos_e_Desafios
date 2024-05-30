@@ -1,0 +1,107 @@
+@charset "UTF-8";
+@font-face {
+    font-family: idroid;
+    src: url(pacote-projeto-d010/fontes/idroid.otf) format('opentype');
+    font-weight: bolder;
+    font-style: normal;
+}
+
+/*Configurações das CSS do Cabeçalho*/
+header {
+    background-color: #638a82;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0px 3px;
+    border-radius: 20px 20px 0px 0px;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'idroid';
+}
+
+header > h1 {
+    background-color: #5a867d;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    padding: 5px;
+    font-size: 3em;
+    font-weight: 900;
+}
+header > p {
+    background-color: #5a867d;
+    text-align: center;
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 10px 5px;
+   
+}
+
+nav {
+    background-color: #5a867d;
+    padding: 0px 5px 0px 10px;
+    border-radius: 10px;
+    text-align: left;
+
+}
+
+a {
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    font-weight: bolder;
+}
+
+a:hover {
+    color:rgb(255, 255, 255);
+}
+/*Fim das Configurações do cabeçalho*/
+/*---------------------------------------------------------------------------------------*/
+/*Configurações centrais do corpo da página*/
+
+body {
+    background-image: linear-gradient(to bottom, #ffffff, #ececec);
+    text-align: center;
+}
+
+#principal {
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 2em;
+    padding: 1px;
+    font-size:25px;
+    text-align: justify, center;
+    margin: 15px;
+}
+
+main > p {
+    text-align: justify;
+    margin: 200px
+}
+
+h2 {
+    font-size: 32px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'idroid','Times New Roman', Times, serif;
+    
+}
+
+h3 {
+    font-size: 32px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'idroid','Times New Roman', Times, serif;
+}
+
+footer > p {
+    font-weight: 700;
+    border-radius: 3px;
+    font-size: 15px;
+}
+
+footer {
+    background-color: #5a867d ;
+    font-family: 'idroid','Times New Roman', Times, serif;
+    padding: 1em;
+}
+span > a{
+    color: rgb(197, 138, 253);
+    text-decoration: none;
+}
