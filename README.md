@@ -4,7 +4,7 @@
    Perdoe a simplicidade, ainda estamos começando 😄
 
 
- <a src="Projeto Redes Sociais/index.html" alt="">Clique aqui para acessar o projeto das redes sociais</a>   
+ <a href="Projeto Redes Sociais/index.html" target="_blank">Clique aqui para acessar o projeto das redes sociais</a>   
 
 
 
