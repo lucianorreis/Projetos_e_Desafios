@@ -3,7 +3,7 @@
      Perdoe a simplicidade, ainda estamos começando 😄
 
 
-    <a href="Projeto Redes Sociais/index.html">Clique aqui para acessar o projeto das redes sociais</a>   
+ <a src="Projeto Redes Sociais/index.html" alt="">Clique aqui para acessar o projeto das redes sociais</a>   
 </html>
 
 
